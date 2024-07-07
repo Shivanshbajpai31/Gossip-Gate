@@ -45,6 +45,3 @@ Gossip Gate is a feature-rich real-time chat application that allows users to re
 - Ensure you have a stable internet connection to access Firebase services.
 - For any issues or contributions, please refer to the GitHub repository for more information.
 
----
-
-Feel free to modify this description to better suit your needs!
